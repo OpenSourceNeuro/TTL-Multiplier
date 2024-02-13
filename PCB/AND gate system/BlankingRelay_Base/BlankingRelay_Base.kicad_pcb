@@ -513,6 +513,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ":KICAD7_3DMODEL_DIR:Maxime/dpdt.step"
+      (offset (xyz 0 12 2.5))
+      (scale (xyz 1 1 1.1))
+      (rotate (xyz 0 180 180))
+    )
   )
 
   (footprint "Package_TO_SOT_THT:TO-220-3_Vertical" (layer "F.Cu")
@@ -1245,6 +1250,16 @@
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
     )
+    (model ":KICAD7_3DMODEL_DIR:Maxime/1825139-2.stp" hide
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Maxime/73100-0131.STEP"
+      (offset (xyz 0 10 6))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 -180))
+    )
   )
 
   (footprint "Connector_BarrelJack:BarrelJack_Horizontal" (layer "F.Cu")
@@ -1455,6 +1470,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ":KICAD7_3DMODEL_DIR:Maxime/dpdt.step"
+      (offset (xyz 0 12 2.5))
+      (scale (xyz 1 1 1.1))
+      (rotate (xyz 0 180 180))
+    )
   )
 
   (footprint "MountingHole:MountingHole_3mm" (layer "F.Cu")
@@ -1565,6 +1585,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ":KICAD7_3DMODEL_DIR:Maxime/dpdt.step"
+      (offset (xyz 0 12 2.5))
+      (scale (xyz 1 1 1.1))
+      (rotate (xyz 0 180 180))
+    )
   )
 
   (footprint "Maxime:maxi_DPDT_Angled" (layer "F.Cu")
@@ -1644,6 +1669,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Maxime/dpdt.step"
+      (offset (xyz 0 12 2.5))
+      (scale (xyz 1 1 1.1))
+      (rotate (xyz 0 180 180))
     )
   )
 
@@ -2208,6 +2238,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Maxime/dpdt.step"
+      (offset (xyz 0 12 2.5))
+      (scale (xyz 1 1 1.1))
+      (rotate (xyz 0 180 180))
     )
   )
 
@@ -32658,6 +32693,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Maxime/dpdt.step"
+      (offset (xyz 0 12 2.5))
+      (scale (xyz 1 1 1.1))
+      (rotate (xyz 0 180 180))
     )
   )
 
